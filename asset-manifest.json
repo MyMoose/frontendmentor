@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontendmentor/static/css/main.b37e1a89.css",
+    "main.js": "/frontendmentor/static/js/main.93a4b251.js",
+    "index.html": "/frontendmentor/index.html",
+    "main.b37e1a89.css.map": "/frontendmentor/static/css/main.b37e1a89.css.map",
+    "main.93a4b251.js.map": "/frontendmentor/static/js/main.93a4b251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37e1a89.css",
+    "static/js/main.93a4b251.js"
+  ]
+}
